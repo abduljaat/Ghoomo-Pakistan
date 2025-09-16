@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114356950761",
+    "project_id": "ghoomopakistan-b433c",
+    "storage_bucket": "ghoomopakistan-b433c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114356950761:android:82988168931afc055d4278",
+        "android_client_info": {
+          "package_name": "com.example.ghoomo_pakistan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaiZux3q8s2S-PZeg3SWpoesFUW-BcJR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
